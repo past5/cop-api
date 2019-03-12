@@ -1,2 +1,2 @@
 # cop-api
-API for Canada Outreach Pharmacy Project
+Backend API for Canada Outreach Pharmacy Project
